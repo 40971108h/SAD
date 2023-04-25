@@ -1,3 +1,4 @@
+## 課程：系統分析與設計
 ## 系級：科技113
 ## 學號：409711008H
 ## 姓名：陳葳
@@ -12,7 +13,7 @@
 ### 心智圖解說影片：https://youtu.be/1EybfWRCoL0
 
 ## 📌作業二
-### HTML自學影片：
+### html自學影片：https://youtu.be/HS5BwJGoZ1w
 
 # 二、學習資源
-## HTML
+## 【html】1小時初學者教學：https://www.youtube.com/watch?v=CLUPkcLQm64
