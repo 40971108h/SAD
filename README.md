@@ -18,6 +18,7 @@
 
 ## 📌作業三
 ### 小組專題進度規劃解說影片：
+### Notion專題學習資源&規劃：https://deadpan-yam-03e.notion.site/87c862d7fdbd4899bec140c39935ce6c
 
 # 二、學習資源
 ## 【html】1小時初學者教學：https://www.youtube.com/watch?v=CLUPkcLQm64
